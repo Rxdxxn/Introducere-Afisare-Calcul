@@ -1,0 +1,6 @@
+n=int(input("dati numarul:"))
+print("n1=",n-2)
+print("n2=",n-1)
+print("n3=",n)
+print("n4=",n+1)
+print("n5=",n+2)
